@@ -1,5 +1,3 @@
-import sys
-sys.path.append('venv\Lib\site-packages')
 import pyperclip as pc
 from encrypter import *
 from PyQt5.QtWidgets import QMessageBox
